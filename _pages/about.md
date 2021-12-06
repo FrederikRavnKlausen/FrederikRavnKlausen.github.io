@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p> QMATH, 4th floor of Vibenshuset </p>
+    <p> QMATH, Vibenshuset, 4th floor </p>
     <p> Lyngbyvej 2 </p>
     <p>2100 København Ø</p>
 
