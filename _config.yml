@@ -67,7 +67,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-rss_icon: true
+rss_icon: false
 
 contact_note: >
 # You can even add a little note about which of these is the best way to reach you.
@@ -79,9 +79,9 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+#blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
+#blog_description: a simple whitespace theme for academics
+#permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
