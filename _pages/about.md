@@ -22,5 +22,5 @@ social: true  # includes social icons at the bottom of the page
  I have two bachelor degrees in Mathematics and Physics and a master's degree in Mathematics. 
  During my studies, I have spent semester in LMU Munich and ETH Zürich. 
 
-I  have broad interests in Mathematical Physics with special emphasis on Anderson Localization, Open Quantum Systems, Classical Statistiscal Mechanics. 
+I  have broad interests in Mathematical Physics with special emphasis on Anderson Localization, Open Quantum Systems, Classical Statistical Mechanics. 
 Feel free to reach out! 
