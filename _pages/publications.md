@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Preprints and Publications
+title: preprints and publications
 description: 
 years: [2023,2022, 2021, 2020, 2018, 2015]
 nav: true
