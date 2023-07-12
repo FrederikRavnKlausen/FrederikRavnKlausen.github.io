@@ -28,4 +28,4 @@ I also like to ponder about models in classical statistical mechanics without mo
 Feel free to reach out! 
 
 
-[[PDF]](assets/pdf/example_pdf.pdf)
+
