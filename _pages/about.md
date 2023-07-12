@@ -22,9 +22,7 @@ social: true  # includes social icons at the bottom of the page
  I have two bachelor degrees in Mathematics and Physics and a master's degree in Mathematics. 
  During my studies, I have spent semesters in LMU Munich and ETH Zürich. 
 
-I  have broad interests in Mathematical Physics with special emphasis on Anderson Localization, Open Quantum Systems, Classical Statistical Mechanics. 
-In particular, I am interested in signs of Anderson localization in open quantum systems. 
+I have broad interests in Mathematical Physics with special emphasis on Anderson Localization, Open Quantum Systems, Classical Statistical Mechanics. In particular, I am interested in signs of Anderson localization in open quantum systems. 
 I also like to ponder about models in classical statistical mechanics without monotonicity e.g. the random current representation of the Ising model and the loop-O(1)-model. 
-My supervisor is Albert H. Werner. 
 
 Feel free to reach out! 
