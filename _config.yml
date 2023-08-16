@@ -70,7 +70,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-rss_icon: false
+#rss_icon: false
 
 contact_note: >
 # You can even add a little note about which of these is the best way to reach you.
@@ -108,7 +108,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 10
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
