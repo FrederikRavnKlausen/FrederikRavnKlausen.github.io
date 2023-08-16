@@ -134,18 +134,18 @@
     {% endif %}
     </div>
 
-    <!-- Hidden abstract block -->
-    {% if entry.abstract %}
-    <div class="abstract hidden">
-      <p>{{ entry.abstract }}</p>
-    </div>
-    {% endif %}
+          {% if entry.abstract -%}
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>{{ entry.abstract }}</p>
+          </div>
+          {%- endif -%}
 
-    <!-- Hidden bibtex block -->
-    {% if entry.bibtex_show %}
-    <div class="bibtex hidden">
-      {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %}
-    </div>
-    {% endif %}
-  </div>
-</div>
+          {% if bibtex_show -%}
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %}
+          </div>
+          {%- endif %}
+        </div>
+      </div>
