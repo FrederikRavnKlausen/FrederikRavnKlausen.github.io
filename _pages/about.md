@@ -17,7 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
- I am a Postdoc at [NQCP](https://nqcp.ku.dk/) trying to figure what it will take for quantum computers to become useful. 
  
 I have a PhD in Mathematical Physics from [QMATH](https://qmath.ku.dk) at the University of Copenhagen - see my thesis above. 
 
